@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+web_site_blog/website/database.db
 .Python
 build/
 develop-eggs/
